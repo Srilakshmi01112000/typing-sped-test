@@ -1,0 +1,54 @@
+/* Default Theme */
+.default-theme {
+    background-color:black;
+    color: gray;
+  }
+  
+  /* Darken Black Theme */
+  .dark-theme {
+    background-color: #000;
+    color: gray;
+  }
+  
+  /* Coloured Pink Theme */
+  .pink-theme {
+    background-color: black;
+    color: salmon;
+  }
+  
+  /* Coloured Grey Theme */
+  .grey-theme {
+    background-color: grey;
+    color: rgb(110, 109, 109);
+  }
+  
+  /* Coloured Black Theme */
+  .black-theme {
+    background-color: black;
+    color: white;
+  }
+  
+  /* Coloured Blue Theme */
+  .blue-theme {
+    background-color: rgb(27, 255, 247);
+    color: rgb(79, 78, 78);
+  }
+  
+  /* Coloured Green Theme */
+  .green-theme {
+    background-color: rgb(168, 240, 168);
+    color:rgb(79, 78, 78);
+  }
+  
+  /* Lighten White Theme */
+  .white-theme {
+    background-color: rgb(249, 244, 244);
+    color: #888;
+  }
+  
+  /* Lighten Purple Theme */
+  .purple-theme {
+    background-color: rgb(73, 0, 128);
+    color:rgb(79, 78, 78);
+  }
+  
