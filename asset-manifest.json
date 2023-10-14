@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/typing-sped-test/static/css/main.31d6cfe0.css",
+    "main.js": "/typing-sped-test/static/js/main.4a89762d.js",
+    "index.html": "/typing-sped-test/index.html",
+    "main.4a89762d.js.map": "/typing-sped-test/static/js/main.4a89762d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4a89762d.js"
+  ]
+}
